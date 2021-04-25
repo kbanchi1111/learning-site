@@ -68,3 +68,8 @@
     - https://www.typescriptlang.org/
 * PCに環境を作って学習
   - VSCode
+
+## AI
+* 学習サイト
+  - https://www.python.jp/index.html
+  - https://news.mynavi.jp/series/Python_ML/
