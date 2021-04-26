@@ -1,16 +1,16 @@
 # learning-site
 
-## General
+## 全般
 * Progate
-  - オンライン学習サイト
+  - オンラインプログラミング学習サイト
   - 無料枠と有料枠あり（有料枠は月額1,078円）
-  - 無料枠でもLinuxコマンド・SQL・Javaなどの練習が可能
+  - 無料枠でも「Linuxコマンド」・「SQL」・「Java」などの練習が可能
   - https://prog-8.com/
 
 ## Linux
-* Linux環境を作って練習
+* 環境を作って練習したい人
   - Docker ⇨ おすすめ
-    - コンテナ環境
+    - 仮想化ソフトウェア（コンテナ環境）
     - dockerを使ってPCに簡単にLinux環境を作成可能
     - https://docs.docker.jp/docker-for-windows/install.html
     - https://qiita.com/gahoh/items/7b21377b5c9e3ffddf4a
@@ -19,14 +19,15 @@
     - isoイメージを使ってPCにLinuxの仮想環境を作成可能
     - https://www.virtualbox.org/
     - https://eng-entrance.com/virtualbox-install
-* WindowsをLinuxっぽく操作する
   - VSCode
     - Microsoftが提供している無料エディタ
-    - 「Terminal」を使ってWindowsをLinuxっぽく操作
+    - 「Terminal」を使ってWindowsをLinuxっぽく操作することができる
     - https://code.visualstudio.com/
+* 学習サイト
+  - 
 
 ## Database
-* データベース環境を作って練習
+* 環境を作って練習したい人
   - Docker
     - dockerでPostgreSQL環境を作って学習
     - https://hub.docker.com/_/postgres
@@ -48,7 +49,7 @@
     - https://scratch.mit.edu/
     - https://scratch.mit.edu/projects/459282718/
   - Progate
-* PCに環境を作って学習
+* 環境を作って練習したい人
   - Eclipse
     - 統合開発環境
     - https://mergedoc.osdn.jp/
@@ -66,7 +67,7 @@
     - https://stackblitz.com/
   - typescript
     - https://www.typescriptlang.org/
-* PCに環境を作って学習
+* 環境を作って練習したい人
   - VSCode
 
 ## AI
