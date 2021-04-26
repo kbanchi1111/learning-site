@@ -11,51 +11,91 @@
 * 環境を作って練習したい人
   - Docker ⇨ おすすめ
     - 仮想化ソフトウェア（コンテナ環境）
-    - dockerを使ってPCに簡単にLinux環境を作成可能
-    - https://docs.docker.jp/docker-for-windows/install.html
-    - https://qiita.com/gahoh/items/7b21377b5c9e3ffddf4a
+    - Dockerを使ってPCに簡単にLinux環境を作成可能
+    - Dockerのインストール
+      - https://docs.docker.jp/docker-for-windows/install.html
+    - Docker Desktopを使ってLinux環境（CentOS）を構築
+      - https://qiita.com/gahoh/items/7b21377b5c9e3ffddf4a
   - VirtualBox
     - 仮想化ソフトウェア
     - isoイメージを使ってPCにLinuxの仮想環境を作成可能
-    - https://www.virtualbox.org/
-    - https://eng-entrance.com/virtualbox-install
+    - VirtualBoxのインストール
+      - https://www.virtualbox.org/
+    - VirtualBoxを使ってLinux環境（CentOS）を構築
+      - https://eng-entrance.com/virtualbox-install
   - VSCode
     - Microsoftが提供している無料エディタ
     - 「Terminal」を使ってWindowsをLinuxっぽく操作することができる
-    - https://code.visualstudio.com/
+    - VSCodeのインストール
+      - https://code.visualstudio.com/
+    - Terminalを操作する
+      - https://www.javadrive.jp/vscode/terminal/index1.html
 * 学習サイト
-  - 
+  - Web上でLinuxのコマンドが試せるサイト（実行できないコマンドもあり）
+    - https://masswerk.at/jsuix/index.html
+  - Linux関連の基礎知識
+    - https://eng-entrance.com/category/linux
+  - Linuxコマンド
+    - https://xtech.nikkei.com/it/article/COLUMN/20060224/230573/
+  - Linuxの資格（LPIC）
+    - https://www.lpi.org/ja/
 
 ## Database
 * 環境を作って練習したい人
   - Docker
-    - dockerでPostgreSQL環境を作って学習
-    - https://hub.docker.com/_/postgres
+    - DockerでPostgreSQLデータベース環境を作って学習
+    - DockerでのPostgreSQLデータベース環境構築
+      - https://hub.docker.com/_/postgres
+      - https://kobe-systemdesign.work/2020/07/21/windows%E3%81%AEdocker%E3%81%A7postgresql%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B%EF%BC%88docker-compose%E4%BD%BF%E7%94%A8%EF%BC%89/
   - PostgreSQL for Windows
     - Windows版のPostgreSQLをインストールして学習
-    - https://www.postgresql.jp/index.php/download
+    - Windows版のPostgreSQLデータベース環境構築
+      - https://www.postgresql.jp/index.php/download
+      - https://qiita.com/ynkgw/items/bf4a4a773e7a7cb0172f
 * 学習サイト
-  - https://www.oracle.com/jp/technical-resources/article/introductory-database-seminar.html
+  - データベースとは・SQLとは
+    - https://www.oracle.com/jp/technical-resources/article/introductory-database-seminar.html
+  - SQL・正規化の練習
+    - http://sql.main.jp/
+  - 索引
+    - https://www.atmarkit.co.jp/ait/articles/1703/01/news199.html
+    - https://kirohi.com/index_for_beginer
 
 ## Network
+* 環境を作って練習したい人
+  - VirtualBoxでLinux環境を作って、ネットワークの設定をする
+    - https://www.shookuro.com/entry/2018/02/10/172724
 * 学習サイト
-  - https://www.infraexpert.com/
+  - ネットワーク初心者向けサイト
+    - http://www5e.biglobe.ne.jp/aji/3min/
+  - ネットワーク技術に関するサイト
+    - https://www.infraexpert.com/
+  - ネットワークの資格（CCNA）
+    - https://www.cisco.com/c/ja_jp/training-events/training-certifications/certifications/associate/ccna.html
 
 ## Java
-* オンライン学習サイト
+* オンライン練習サイト
   - Scratch
     - Javaではないが、プログラミング初心者向けの学習プラトフォーム
     - 絵を描くようにプログラミングを行う
     - https://scratch.mit.edu/
     - https://scratch.mit.edu/projects/459282718/
   - Progate
+    - https://prog-8.com/
 * 環境を作って練習したい人
   - Eclipse
     - 統合開発環境
-    - https://mergedoc.osdn.jp/
+    - Eclipseのインストール
+      - https://mergedoc.osdn.jp/
+      - https://proengineer.internous.co.jp/content/columnfeature/7853
   - STS
     - 統合開発環境（Spring）
-    - https://spring.io/tools
+    - STSのインストール
+      - https://spring.io/tools
+      - https://qiita.com/t-shin0hara/items/d60116ab299a4dc8a9d0
+* 学習サイト
+  - Java入門
+    - https://www.javadrive.jp/start/
 
 ## HTML/CSS/JavaScript
 * オンラインの実行環境
@@ -69,8 +109,30 @@
     - https://www.typescriptlang.org/
 * 環境を作って練習したい人
   - VSCode
+  - Atom
+    - https://atom.io/
+* 学習サイト
+  - Webデザイン入門
+    - https://saruwakakun.com/html-css/basic
+  - Progate
+    - https://prog-8.com/
+
+## Webアプリケーション（サーブレット/JSP）
+* 学習サイト
+  - サーブレット/JSP入門
+    - https://www.javadrive.jp/servlet/
 
 ## AI
 * 学習サイト
-  - https://www.python.jp/index.html
-  - https://news.mynavi.jp/series/Python_ML/
+  - Python環境構築
+    - https://www.python.jp/index.html
+  - AI・機械学習サンプル
+    - https://news.mynavi.jp/series/Python_ML/
+
+## その他
+* IT関連サイト
+  - https://www.atmarkit.co.jp/index.html
+  - https://www.itmedia.co.jp/
+* ニュースサイト
+  - https://jp.techcrunch.com/
+  - https://techable.jp/
