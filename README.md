@@ -82,6 +82,8 @@
     - https://scratch.mit.edu/projects/459282718/
   - Progate
     - https://prog-8.com/
+  - Codecademy
+    - https://www.codecademy.com/catalog
 * 環境を作って練習したい人
   - Eclipse
     - 統合開発環境
@@ -95,6 +97,7 @@
       - https://qiita.com/t-shin0hara/items/d60116ab299a4dc8a9d0
 * 学習サイト
   - Java入門
+    - https://manga.crocro.com/?cat=java&pg=index
     - https://www.javadrive.jp/start/
 
 ## HTML/CSS/JavaScript
